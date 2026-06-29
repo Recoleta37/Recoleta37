@@ -65,8 +65,7 @@
 ### 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="160" src="./README.assets/stats.svg" /><br />
-  <img height="160" src="https://streak-stats.demolab.com/?user=Recoleta37&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Recoleta37&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
