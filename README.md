@@ -74,8 +74,8 @@
 
 | Platform | Content | Link |
 | :--- | :--- | :--- |
-| **语雀 · Yuque** | Digital garden — notes, ideas, things I'm learning | [![][yuque-shield]][yuque-link] |
-| **掘金 · Juejin** | Tech blog | [![][juejin-shield]][juejin-link] |
+| **语雀 · Yuque** | Digital garden — notes, drafts, ideas | [![][yuque-shield]][yuque-link] |
+| **掘金 · Juejin** | Tech blog — cooked and organized | [![][juejin-shield]][juejin-link] |
 
 ---
 
