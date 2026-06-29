@@ -37,7 +37,7 @@
 
 ### 👤 &nbsp;About Me
 
-<img align="right" alt="Avatar" width="220" src="./README.assets/avatar.jpg" style="margin-left: 24px; border-radius: 12px;" />
+<img align="right" alt="Avatar" width="220" src="./README.assets/avatar.svg" style="margin-left: 24px;" />
 
 > 🎓 Undergrad @ Peking University, just wrapped up my first year.
 > Fascinated by **Artificial Intelligence** and **game (mod) development**.
