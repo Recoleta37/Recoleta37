@@ -29,9 +29,6 @@
   <em>Pushing my boundaries with passion and creativity.</em><br />
   <em>To infinity and beyond!</em>
 </p>
-</p>
-
-<br />
 
 ---
 
