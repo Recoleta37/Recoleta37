@@ -43,7 +43,7 @@
 
 - 🔭 **Focus:** Artificial Intelligence & Game (Mod) Development
 - 🌱 **Growing my skills in:** C++, Python, C#, ML
-- 🤝 **Open to collaborate on:** game design/mods, AI side projects, anything fun
+- 🤝 **Open to collaborate on:** Game design/mods, AI side projects, anything fun
 - 📫 **Reach me at:** [receleta37@gmail.com](mailto:receleta37@gmail.com)
 - ⚡ **Fun fact:** You might think `receleta` has three e's for "email" — but it's actually just a typo from day one 🥲
 
