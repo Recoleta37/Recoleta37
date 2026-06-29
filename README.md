@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/Recoleta37">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Recoleta37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Recoleta37&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Recoleta37">
     <img height="160" src="https://streak-stats.demolab.com/?user=Recoleta37&theme=tokyonight&hide_border=true" />
