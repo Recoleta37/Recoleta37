@@ -26,8 +26,9 @@
 </h1>
 
 <p align="center">
-  <!-- TODO: Replace with your tagline -->
-  <em>Building clean, thoughtful software — powered by curiosity and a good theme.</em>
+  <em>Pushing my boundaries with passion and creativity.</em><br />
+  <em>To infinity and beyond!</em>
+</p>
 </p>
 
 <br />
@@ -39,11 +40,12 @@
 <img align="right" alt="Avatar" width="220" src="./README.assets/avatar.svg" style="margin-left: 24px;" />
 
 > 🎓 Undergrad @ Peking University, just wrapped up my first year.
-> Fascinated by **Artificial Intelligence** and **game (mod) development**.
+> Fascinated by **Artificial Intelligence** and **Game (Mod) Development**.
 
 - 🔭 **Focus:** Artificial Intelligence & Game (Mod) Development
 - 🌱 **Growing my skills in:** C++, Python, C#, ML
 - 🤝 **Open to collaborate on:** Game design/mods, AI side projects, anything fun
+- 💬 **WeChat:** ![][wechat-shield]
 - 📫 **Reach me at:** [receleta37@gmail.com](mailto:receleta37@gmail.com)
 - ⚡ **Fun fact:** You might think `receleta` has three e's for "email" — but it's actually just a typo from day one 🥲
 
@@ -70,13 +72,7 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=Recoleta37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Recoleta37">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recoleta37&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Recoleta37">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Recoleta37&theme=tokyonight&hide_border=true" />
+    <img height="160" src="https://streak-stats.demolab.com/?user=Recoleta37&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -86,20 +82,16 @@
 
 | Platform | Content | Link |
 | :--- | :--- | :--- |
-| **语雀 · Yuque** | Digital garden — notes, ideas, things I'm learning | [yuque.com/recoleta37](https://www.yuque.com/recoleta37) |
-| **掘金 · Juejin** | Tech blog (Chinese) — coming soon | *stay tuned* |
+| **语雀 · Yuque** | Digital garden — notes, ideas, things I'm learning | [![][yuque-shield]][yuque-link] |
+| **掘金 · Juejin** | Tech blog | [![][juejin-shield]][juejin-link] |
 
 ---
 
 ### 🚀 &nbsp;Current Projects
 
-<!-- TODO: Replace with your actual projects -->
-
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **Project Alpha** | A brief description of what this project does and what stack it uses. | [Repo](#) · [Demo](#) |
-| **Project Beta** | Yet another cool thing I'm building or contributing to. | [Repo](#) · [Demo](#) |
-| **Project Gamma** | Something experimental — because why not? | [Repo](#) |
+| *Coming soon* | — | — |
 
 ---
 
@@ -119,6 +111,11 @@
 [tool-github]: https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
 [tool-vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
 [tool-markdown]: https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white
+[juejin-shield]: https://img.shields.io/badge/掘金-1E80FF?style=flat-square&logo=juejin&logoColor=white
+[juejin-link]: https://juejin.cn/user/3823432098655708
+[yuque-shield]: https://img.shields.io/badge/语雀-00B96B?style=flat-square&logo=yuque&logoColor=white
+[yuque-link]: https://www.yuque.com/recoleta37
+[wechat-shield]: https://img.shields.io/badge/njgsy1530071185-07C160?style=flat-square&logo=wechat&logoColor=white
 
 <!--
   ╔══════════════════════════════════════════════════════════════════════════════╗
