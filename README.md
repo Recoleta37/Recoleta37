@@ -37,16 +37,15 @@
 
 ### 👤 &nbsp;About Me
 
-<img align="right" alt="Profile picture" width="220" src="https://via.placeholder.com/220?text=Your+Photo" style="margin-left: 24px; border-radius: 12px;" />
-<!-- TODO: Replace the placeholder image URL above with your actual picture -->
+<img align="right" alt="Avatar" width="220" src="./README.assets/avatar.jpg" style="margin-left: 24px; border-radius: 12px;" />
 
 > 🎓 Undergrad @ Peking University, just wrapped up my first year.
 > Fascinated by **Artificial Intelligence** and **game (mod) development**.
 
 - 🔭 **Focus:** Artificial Intelligence & Game (Mod) Development
 - 🌱 **Growing my skills in:** C++, Python, C#, ML
-- 🤝 **Open to collaborate on:** game mods, AI side projects, anything fun
-- 📫 **Reach me at:** [receleta@gmail.com](mailto:receleta37@gmail.com)
+- 🤝 **Open to collaborate on:** game design/mods, AI side projects, anything fun
+- 📫 **Reach me at:** [receleta37@gmail.com](mailto:receleta37@gmail.com)
 - ⚡ **Fun fact:** You might think `receleta` has three e's for "email" — but it's actually just a typo from day one 🥲
 
 <br clear="right" />
