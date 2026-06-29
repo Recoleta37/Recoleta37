@@ -5,10 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1a1b27/70a5fd?text=Your+Banner+Here" alt="banner" />
-  <!-- TODO: Replace the placeholder above with your own banner image.
-       Create a folder README.assets/ next to this README and put your image there,
-       then reference it like: ![banner](./README.assets/banner.png) -->
+  <img src="./README.assets/banner.jpg" alt="banner" />
 </div>
 
 <br />
