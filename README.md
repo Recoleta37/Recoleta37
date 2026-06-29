@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./README.assets/banner.jpg" alt="banner" />
+  <img src="./README.assets/banner.svg" alt="banner" />
 </div>
 
 <br />
