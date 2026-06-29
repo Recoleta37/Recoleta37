@@ -2,8 +2,8 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch:          # manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,13 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=Recoleta37&show_icons=true&theme=tokyonight&hide_border=true
-          path: README.assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch stats card
+        run: |
+          curl -s -o README.assets/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=Recoleta37&show_icons=true&theme=tokyonight&hide_border=true"
 
       - name: Commit
         run: |
