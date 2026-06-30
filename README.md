@@ -55,7 +55,7 @@
 | Domain | Skills |
 | :--- | :--- |
 | **Languages** | ![][lang-cpp] ![][lang-python] |
-| **Machine Learning** | ![][ai-pytorch] |
+| **Machine Learning** | ![][ai-pytorch] ![][ai-numpy] |
 | **Tools** | ![][tool-github] ![][tool-vscode] ![][tool-markdown] |
 
 > 🌱 *Still growing — more badges to earn!*
@@ -100,6 +100,7 @@
 [lang-cpp]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white
 [lang-python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
 [ai-pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+[ai-numpy]: https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
 [tool-github]: https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
 [tool-vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
 [tool-markdown]: https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white
